@@ -1,0 +1,21 @@
+{
+  "name": "stathcoin-site",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "^4.0.3",
+    "vite": "^5.0.8",
+    "framer-motion": "^11.0.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "@solana/wallet-adapter-react": "^0.15.18",
+    "@solana/wallet-adapter-react-ui": "^0.10.6",
+    "@solana/wallet-adapter-wallets": "^0.19.19",
+    "@solana/wallet-adapter-base": "^0.9.20"
+  }
+}
